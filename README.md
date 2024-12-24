@@ -11,7 +11,7 @@ transformers              4.32.0
 Three coarse-grained classification datasets: CIFAR10, CIFAR100, Imagenet-100, and three fine-grained classification
 datasets: CUB-200-2011, Stanford Cars, and Herbarium19.
 # Code explanation
- Data directory: contain dataset split and data transform \<br>
+ Data directory: contain dataset split and data transform <br>
  Logs directory: Experiment Log
  pretrained_models directory: contain predefined base model----ViT-B-16
  save directory: save the experiment result
