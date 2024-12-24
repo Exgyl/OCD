@@ -1,4 +1,5 @@
 # OCD(On-The-Fly Category Discovery)
+========================================
 CVPR 2023.Ruoyi Du, Dongliang Chang, Kongming Liang*, Timothy Hospedales, YiZhe Song, Zhanyu Ma
 # Introduction
 A dynamic category discovery method has been devised with the primary objective of enabling the model to promptly assimilate new category samples, demonstrating capabilities in inductive learning and streaming reasoning. Initially, a scalable model, referred to as main_baseline, has been formulated based on hash coding as a practical foundation. Recognizing the susceptibility of hash codes to intra-class variability, a novel sign-magnitude disentanglement structure, denoted as main_SMILE, has been introduced to alleviate the disruptions arising from this source of interference. The foundational model employed in this study is the ViT-B-16 architecture.
