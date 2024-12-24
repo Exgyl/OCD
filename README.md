@@ -6,7 +6,7 @@ A dynamic category discovery method has been devised with the primary objective 
 python                    3.8.17  <br>
 torch                     2.0.0+cu118 <br>
 tqdm                      4.65.0 <br>                
-transformers              4.32.0 <br> 
+transformers              4.32.0
 # Dataset
 Three coarse-grained classification datasets: CIFAR10, CIFAR100, Imagenet-100, and three fine-grained classification
 datasets: CUB-200-2011, Stanford Cars, and Herbarium19.
